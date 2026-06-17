@@ -1,0 +1,45 @@
+{
+  "ultimaAtualizacao": "2025-12-31T10:00:00Z",
+  "fontUrl": "https://www.tesourotransparente.gov.br",
+  "mesReferencia": "Dezembro/2025",
+  "ultimoMes": {
+    "resultadoPrimario": 22104.27,
+    "receitaTotal": 250127.64,
+    "despesaTotal": 228023.37,
+    "juros": -107852.37,
+    "resultadoNominal": -129748.10
+  },
+  "acumuladoAno": {
+    "resultadoPrimario": -61694.31,
+    "receitaTotal": 2332555.30,
+    "despesaTotal": 2394249.61,
+    "juros": -891879.89,
+    "resultadoNominal": -950566.99
+  },
+  "historico": [
+    { "ano": 2024, "mes": 1, "resultadoPrimario": 79462.48, "receitaTotal": 237872.09, "despesaTotal": 158409.60 },
+    { "ano": 2024, "mes": 2, "resultadoPrimario": -58267.09, "receitaTotal": 132713.36, "despesaTotal": 190980.45 },
+    { "ano": 2024, "mes": 3, "resultadoPrimario": -1024.40, "receitaTotal": 164361.85, "despesaTotal": 165386.25 },
+    { "ano": 2024, "mes": 4, "resultadoPrimario": 11584.84, "receitaTotal": 191780.99, "despesaTotal": 180196.15 },
+    { "ano": 2024, "mes": 5, "resultadoPrimario": -60408.04, "receitaTotal": 165068.74, "despesaTotal": 225476.78 },
+    { "ano": 2024, "mes": 6, "resultadoPrimario": -38720.59, "receitaTotal": 160597.18, "despesaTotal": 199317.76 },
+    { "ano": 2024, "mes": 7, "resultadoPrimario": -8867.63, "receitaTotal": 183956.05, "despesaTotal": 192823.68 },
+    { "ano": 2024, "mes": 8, "resultadoPrimario": -22161.96, "receitaTotal": 149179.37, "despesaTotal": 171341.32 },
+    { "ano": 2024, "mes": 9, "resultadoPrimario": -5170.33, "receitaTotal": 162854.32, "despesaTotal": 168024.65 },
+    { "ano": 2024, "mes": 10, "resultadoPrimario": 41045.72, "receitaTotal": 209423.56, "despesaTotal": 168377.84 },
+    { "ano": 2024, "mes": 11, "resultadoPrimario": -4502.91, "receitaTotal": 167798.25, "despesaTotal": 172301.16 },
+    { "ano": 2024, "mes": 12, "resultadoPrimario": 24106.20, "receitaTotal": 236181.85, "despesaTotal": 212075.64 },
+    { "ano": 2025, "mes": 1, "resultadoPrimario": 85064.04, "receitaTotal": 258004.04, "despesaTotal": 172940.01 },
+    { "ano": 2025, "mes": 2, "resultadoPrimario": -31598.14, "receitaTotal": 143860.19, "despesaTotal": 175458.34 },
+    { "ano": 2025, "mes": 3, "resultadoPrimario": 1527.27, "receitaTotal": 175163.72, "despesaTotal": 173636.45 },
+    { "ano": 2025, "mes": 4, "resultadoPrimario": 18195.22, "receitaTotal": 213144.05, "despesaTotal": 194948.83 },
+    { "ano": 2025, "mes": 5, "resultadoPrimario": -40248.86, "receitaTotal": 179137.12, "despesaTotal": 219385.98 },
+    { "ano": 2025, "mes": 6, "resultadoPrimario": -44216.44, "receitaTotal": 169135.79, "despesaTotal": 213352.23 },
+    { "ano": 2025, "mes": 7, "resultadoPrimario": -59070.42, "receitaTotal": 201244.67, "despesaTotal": 260315.08 },
+    { "ano": 2025, "mes": 8, "resultadoPrimario": -15540.20, "receitaTotal": 174216.25, "despesaTotal": 189756.45 },
+    { "ano": 2025, "mes": 9, "resultadoPrimario": -14379.20, "receitaTotal": 172486.99, "despesaTotal": 186866.19 },
+    { "ano": 2025, "mes": 10, "resultadoPrimario": 36615.80, "receitaTotal": 229081.38, "despesaTotal": 192465.58 },
+    { "ano": 2025, "mes": 11, "resultadoPrimario": -20147.64, "receitaTotal": 166953.46, "despesaTotal": 187101.10 },
+    { "ano": 2025, "mes": 12, "resultadoPrimario": 22104.27, "receitaTotal": 250127.64, "despesaTotal": 228023.37 }
+  ]
+}
